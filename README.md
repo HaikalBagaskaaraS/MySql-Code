@@ -51,13 +51,12 @@ Desain ini mendukung proses transaksi ritel dengan efisien dan minim redudansi.
 ### 1. Clone repository ini:
 ```
 git clone https://github.com/HaikalBagaskaaraS/MySql-Code.git
-cd minimarket-database
 ```
 
 ### 2. Import file SQL ke MySQL Workbench atau tool lain yang kamu gunakan:
-minimarket_schema.sql
-stored_procedures.sql
-triggers.sql
+```
+db_minimarket_system.sql
+```
 
 Jalankan perintah-perintah SQL tersebut secara berurutan untuk membentuk struktur database dan logika otomatisasi.
 
